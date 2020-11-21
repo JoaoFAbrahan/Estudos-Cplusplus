@@ -1,0 +1,4 @@
+﻿  ex-2.cpp
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-5\ex-2\ex-2\ex-2.cpp(30,17): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-5\ex-2\ex-2\ex-2.cpp(31,33): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  ex-2.vcxproj -> C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-5\ex-2\Debug\ex-2.exe

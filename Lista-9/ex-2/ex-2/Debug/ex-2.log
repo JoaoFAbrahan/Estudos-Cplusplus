@@ -1,0 +1,3 @@
+﻿  ex-2.cpp
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-9\ex-2\ex-2\ex-2.cpp(38,23): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  ex-2.vcxproj -> C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-9\ex-2\Debug\ex-2.exe

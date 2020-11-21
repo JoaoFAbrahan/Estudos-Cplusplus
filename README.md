@@ -1,2 +1,2 @@
 # Estudos C++
- Projetos de estudo da linguagem C++
+ Repositórios dos projetos de estudo da linguagem C++

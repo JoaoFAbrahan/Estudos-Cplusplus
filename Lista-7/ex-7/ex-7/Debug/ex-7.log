@@ -1,0 +1,4 @@
+﻿  ex-7.cpp
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-7\ex-7\ex-7\ex-7.cpp(92): warning C4715: 'cadastroCargo': nem todos os caminhos de controle retornam um valor
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-7\ex-7\ex-7\ex-7.cpp(123): warning C4715: 'cadastroSetor': nem todos os caminhos de controle retornam um valor
+  ex-7.vcxproj -> C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-7\ex-7\Debug\ex-7.exe

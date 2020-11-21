@@ -1,0 +1,12 @@
+﻿  Empresa.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(5667,13): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-11\ex-8\ex-8\Empresa.cpp(18): message : see reference to function template instantiation '_InIt std::find_if<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,std::string>(_InIt,const _InIt,_Pr)' being compiled
+          with
+          [
+              _InIt=std::_List_iterator<std::_List_val<std::_List_simple_types<Funcionario>>>,
+              _Ty=Funcionario,
+              _Pr=std::string
+          ]
+  ex-8.cpp
+  Funcionario.cpp
+  Generating Code...

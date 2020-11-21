@@ -1,0 +1,5 @@
+﻿  classeImplementacao.cpp
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-11\ex-6\ex-6\classeImplementacao.cpp(15,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ex-6.cpp
+  Generating Code...
+  ex-6.vcxproj -> C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-11\ex-6\Debug\ex-6.exe

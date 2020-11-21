@@ -1,0 +1,5 @@
+﻿  ex-7.cpp
+  implementacaoClasse.cpp
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-11\ex-7\ex-7\implementacaoClasse.cpp(10,41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  ex-7.vcxproj -> C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-11\ex-7\Debug\ex-7.exe

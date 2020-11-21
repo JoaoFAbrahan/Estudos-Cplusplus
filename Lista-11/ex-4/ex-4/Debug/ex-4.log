@@ -1,0 +1,4 @@
+﻿  ex-4.cpp
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-11\ex-4\ex-4\ex-4.cpp(24,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-11\ex-4\ex-4\ex-4.cpp(51,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  ex-4.vcxproj -> C:\Users\joaof\Desktop\Grupo de Estudos C++\Códigos\EXERCÍCIOS\Lista-11\ex-4\Debug\ex-4.exe
